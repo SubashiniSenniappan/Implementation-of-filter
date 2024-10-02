@@ -253,14 +253,19 @@ plt.show()
 
 i) Using Averaging Filter
 
+
 ![Screenshot 2024-10-03 001115](https://github.com/user-attachments/assets/3fe165bc-d3d5-49c1-a218-555fd0e48fdf)
 
 
 ii)Using Weighted Averaging Filter
+
+
 ![download (2)](https://github.com/user-attachments/assets/af682605-57e1-4cc1-b3d6-2459e3b25d5d)
 
 
 iii) Using Gaussian Filter
+
+
 ![download](https://github.com/user-attachments/assets/66caeaf0-258b-44ae-af36-56dee0930ca3)
 
 
@@ -274,6 +279,7 @@ i) Using Laplacian Kernal
 ![download (3)](https://github.com/user-attachments/assets/99cd49f7-4f81-4cad-baf9-2178d229904e)
 
 ii) Using Laplacian Operator
+
 ![download (4)](https://github.com/user-attachments/assets/69e695e9-f6b4-4b87-9de1-5476906d199b)
 
 ## Result:
